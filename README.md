@@ -1,1 +1,2 @@
-# Sms-Bomber-IR
+Python Boomber Can Be Decompiled 
+MADE FOR EDUCATIONAL PURPUOSES ONLY!
